@@ -1,6 +1,7 @@
-# test1
-test
-[ena link](https://docs.google.com/document/d/1aF2z-SftxhXiY5C0QkrXVspDZBtzkzZBuesdnLeOPUE/edit)
-# to do list
-- [ ] ena
-- [ ] dyu
+# To Do List
+
+- [ ] go to a concert 
+- [ ] read 3 books 
+- [ ] go for a winter swimming 
+- [ ] have an A to all your tests at school
+- [ ] make your parents proud 
