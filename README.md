@@ -1,7 +1,6 @@
 # To Do List
 
 - [ ] go to a concert 
-- [ ] read 3 books 
-- [ ] go for a winter swimming 
+- [ ] read 5 books at summer 
 - [ ] have an A to all your tests at school
-- [ ] make your parents proud 
+- [ ] mak
